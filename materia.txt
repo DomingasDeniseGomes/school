@@ -1,0 +1,29 @@
+pos@2024dpq.com
+
+
+
+
+
+
+curso de git hub
+
+para saber a versão: git --version
+
+
+para entra no git hub apartir da git bush
+
+Repositor na nuvem como configurar
+
+1passo:git init(
+
+git status(lista de diretores existente);
+
+git add
+
+git add.()
+
+git commit( capturar dados de um projecto);
+
+git commit -m( permite que )
+
+git  clone(serve para clonar uma repositorio ja criado)
